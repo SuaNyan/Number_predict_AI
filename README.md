@@ -25,11 +25,11 @@ pip install numpy matplotlib pillow scikit-learn
 
 リポジトリのインストール
 ```sh
-git clone https://github.com/your-username/handwritten-digit-recognition.git
+git clone git@github.com:SuaNyan/Dataminig_createAI.git
 ```
 ディレクトリに移動
 ```sh
-cd handwritten-digit-recognition
+cd Dataminig_createAI
 ```
 
 ## 使用方法
