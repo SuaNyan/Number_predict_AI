@@ -9,8 +9,6 @@
   - [前提条件](#前提条件)
   - [インストール](#インストール)
 - [使用方法](#使用方法)
-- [ファイルの説明](#ファイルの説明)
-- [ライセンス](#ライセンス)
 
 ## はじめに
 
@@ -34,7 +32,7 @@ git clone https://github.com/your-username/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 ```
 
-##使用方法
+## 使用方法
 1.train_model.py スクリプトを実行してモデルをトレーニングします。これにより、MNISTデータセットが読み込まれ、モデルがトレーニングされ、テストセットでの正確度が計算されます。
 ```sh
 python train_model.py
